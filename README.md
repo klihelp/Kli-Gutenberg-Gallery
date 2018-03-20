@@ -1,5 +1,3 @@
-# copy paste function
-see file
 
 # Gutenberg gallery
 Replace Gutenberg gallery block with the gallery shortcode. 
