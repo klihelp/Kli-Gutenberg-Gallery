@@ -32,7 +32,6 @@
                         $updated = true;
                     }
                 }
-                var_dump($updated);
                 if ($updated) {
                     $content = str_replace($matches[0], $matches[1], $content);
                 }
